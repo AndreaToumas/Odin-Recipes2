@@ -1,0 +1,18 @@
+html {
+    background-image: url(https://www.celebritycruises.com/blog/content/uploads/2022/05/egyptian-food-hero-1920x890.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: white;
+    font-weight: bold;
+}
+
+.koshari, .molokhia, .ali {
+    font-size: 50px;
+    color: white;
+}
